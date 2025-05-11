@@ -1,5 +1,3 @@
-# Guli Moreno
-
 **Best with:** Product strategy • TypeScript / React • Supabase (Edge Functions, Postgres) • Early-stage company building • Notion/Loom & async comms  
 **Familiar with:** Ruby on Rails • Streamlit • Blockchain tooling • AI/LLM integrations (Gemini, GPT) • Chrome/Browser extensions
 
@@ -11,6 +9,8 @@
 ## About Guli
 
 Madrid-based “builder at heart.” Formally an Aerospace engineer, I gravitated to software because it lets you invent at the speed of thought. Today I split time between leading Product at **Capchase**, mentoring Exponential Fellows in SF & NYC, and tinkering on side-projects that scratch my curiosity itch. You can read more about me [here](https://www.gulipad.com/).
+
+---
 
 ### Main Achievements
 
